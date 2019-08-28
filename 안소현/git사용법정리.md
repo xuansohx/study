@@ -11,8 +11,8 @@ git config --global user.email "email"
 
 ```
 git config --global --list 
-git config --unset-all user.name
-git config --unset-all user.email
+git config --global --unset-all user.name
+git config --global --unset-all user.email
 ```
 
 - 저장소 만들기
